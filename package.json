@@ -1,0 +1,39 @@
+{
+    "name": "earth",
+    "displayName": "Earth",
+    "description": "Earth Theme with variants of Angel, Ghost, Human, Land, and Water.",
+    "version": "1.0.0",
+    "publisher": "Nayan",
+    "engines": {  "vscode": "^1.50.0" },
+    "categories": [ "Themes" ],
+    "keywords": [ "VSCode", "Themes" ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Earth - Human",
+                "uiTheme": "vs-dark",
+                "path": "./themes/earth-human.json"
+            },
+            {
+                "label": "Earth - Angel",
+                "uiTheme": "vs",
+                "path": "./themes/earth-angel.json"
+            },
+            {
+                "label": "Earth - Ghost",
+                "uiTheme": "vs-dark",
+                "path": "./themes/earth-ghost.json"
+            },
+            {
+                "label": "Earth - Land",
+                "uiTheme": "vs-dark",
+                "path": "./themes/earth-land.json"
+            },
+            {
+                "label": "Earth - Water",
+                "uiTheme": "vs-dark",
+                "path": "./themes/earth-water.json"
+            }
+        ]
+    }
+}
