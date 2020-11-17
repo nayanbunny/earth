@@ -22,3 +22,6 @@
 
 ## License
 [MIT](https://github.com/nayanbunny/earth/blob/main/LICENSE)
+
+## Support
+(Like the Game) => :star: [The Earth repository](https://github.com/nayanbunny/earth)
