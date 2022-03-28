@@ -1,7 +1,0 @@
-{
-    "editor.fontFamily": "'Cascadia Code', 'Fira Code'",
-    "editor.fontLigatures": true,
-    "files.trimTrailingWhitespace": true,
-    "editor.cursorStyle": "line",
-    "editor.cursorBlinking": "expand",
-}
