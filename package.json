@@ -2,7 +2,7 @@
     "name": "earth",
     "displayName": "Earth",
     "description": "Earth Theme with variants of Angel, Ghost, Human, Land, and Water.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "Nayan",
     "author": {
         "name": "Nayan"
@@ -13,7 +13,7 @@
         "type": "git",
         "url": "https://github.com/nayanbunny/earth"
     },
-    "icon": "images/earth.gif",
+    "icon": "images/earth.png",
     "engines": {  "vscode": "^1.50.0" },
     "categories": [ "Themes" ],
     "keywords": [ "VSCode", "Themes", "Earth", "Ghost", "Angel", "Human", "Land", "Water" ],
