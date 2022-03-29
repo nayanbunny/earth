@@ -11,14 +11,24 @@
 
 ![earth-theme-screenshot](https://raw.githubusercontent.com/nayanbunny/earth/main/images/earth-theme.gif)
 <br />
+<br />
 
 **Make your own VS Code Extension**<br />
 [VS Code Extension](https://code.visualstudio.com/api/get-started/your-first-extension)<br />
-[VS Code Color Theme](https://code.visualstudio.com/api/references/theme-color)
+[VS Code Color Theme](https://code.visualstudio.com/api/references/theme-color)<br />
 
 **Fonts**<br />
+[Fira Code](https://github.com/tonsky/FiraCode)<br />
 [Cascadia Code](https://github.com/microsoft/cascadia-code)<br />
-[Fira Code](https://github.com/tonsky/FiraCode)
+
+**VS Code Settings**<br />
+
+```json
+"editor.fontFamily": "'Fira Code', 'Cascadia Code', monospace",
+"editor.fontLigatures": true,
+"editor.cursorSmoothCaretAnimation": true,
+"editor.cursorBlinking": "expand"
+```
 
 ## License
 
@@ -26,4 +36,4 @@
 
 ## Support
 
-(Like the Game) => &#9733; [The Earth repository](https://github.com/nayanbunny/earth)
+(Like the Theme) => &#9733; [The Earth repository](https://github.com/nayanbunny/earth)

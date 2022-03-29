@@ -12,4 +12,8 @@ All notable changes to the "Earth Theme" extension will be documented in this fi
 
 ## [1.1.1] - 2022-03-29
 
-- Few Color Updates on Ghost, Human, Land and Water Themes.
+- Few Color Updates on Ghost, Human, Land and Water Themes and Logo.
+
+## [1.1.2] - 2022-03-30
+
+- Readme, Name and Text Corrections with minor color changes.
